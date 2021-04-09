@@ -1,7 +1,7 @@
 ### Opa, tudo bem?! Eu sou me chamo Gabriel Dias, 👋
 
 ## Eu sou Estudante, Developer & Entusiasta de Tecnologia
-- 🔭 Atualmente eu trabalho na [KingHost][https://king.host].
+- 🔭 Atualmente eu trabalho na [KingHost]: https://king.host
 - 🌱 Sempre focado em aprender mais sobre desenvolvimento.
 - 👯 Atualmente desenvolvendo em equipes de front-end para o Sicredi.
 - 🥅 Sempre estudando desenvolvimento com React e suas dependencias
@@ -17,15 +17,7 @@
 
 ---
 
-<img align="left" alt="Github Stats For MecBonjourno" src="https://github-readme-stats.vercel.app/api?username=MecBonjourno&show_icons=true&hide_border=true" />
-
-[website]: https://theza.co
 [twitter]: https://twitter.com/zagoguic
 [uol]: https://compassouol.com
-<!-- [youtube]: https://youtube.com/zagoguic -->
 [instagram]: https://instagram.com/zagoguic
 [linkedin]: https://linkedin.com/in/guilherme-zago-740574165/
-<!-- : https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0 -->
