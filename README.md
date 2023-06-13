@@ -9,6 +9,5 @@
 - Amo lidar com pessoas, amo podcasts e jogos. Apaixonado por aprender e multiplicar conhecimento, o desejo de bem-estar me guia. Tenho experiência em ediçãoaudiovisual, diariamente trabalho com PHP, JavaScript, HTML, CSS e MySQL.
 
 ### Da uma olhada nas minhas redes socias:
-[<img align="left" alt="Gabriel Dias | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/days_gabriel)
 [<img align="left" alt="Gabriel Dias | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/gabrieldias102/)
 [<img align="left" alt="Gabriel Dias | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/gabriel.dias102/)
