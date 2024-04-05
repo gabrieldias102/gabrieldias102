@@ -1,9 +1,8 @@
 ### Opa, tudo bem?! Eu sou me chamo Gabriel Dias, 👋
 
 ## Estudante, Gamer e Amante de Música
-- 🔭 Atualmente eu trabalho na [KingHost](https://king.host)
 - 🌱 Sempre focado em aprender mais sobre programação em geral.
-- ⚡ Viciado em CS:GO e cafeína.
+- ⚡ Viciado em CS2 e cafeína.
 
 ### Um pouco sobre mim:
 - Amo lidar com pessoas, amo podcasts e jogos. Apaixonado por aprender e multiplicar conhecimento, o desejo de bem-estar me guia. Tenho experiência em ediçãoaudiovisual, diariamente trabalho com PHP, JavaScript, HTML, CSS e MySQL.
