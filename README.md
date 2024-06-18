@@ -1,12 +1,23 @@
-### Opa, tudo bem?! Eu sou me chamo Gabriel Dias, 👋
+# Hi there, I'm Gabriel Dias! 👋
 
-## Estudante, Gamer e Amante de Música
-- 🌱 Sempre focado em aprender mais sobre programação em geral.
-- ⚡ Viciado em CS2 e cafeína.
+## 🌟 About Me
+- 🎓 Student, Gamer, and Music Lover
+- 🌱 Passionate about learning and always expanding my knowledge.
+- ⚡ Addicted to caffeine and games in general.
 
-### Um pouco sobre mim:
-- Amo lidar com pessoas, amo podcasts e jogos. Apaixonado por aprender e multiplicar conhecimento, o desejo de bem-estar me guia. Tenho experiência em ediçãoaudiovisual, diariamente trabalho com PHP, JavaScript, HTML, CSS e MySQL.
+## 🛠️ Skills
+- **Languages**: PHP, JavaScript, TypeScript, HTML, CSS, SQL
+- **Frameworks/Libraries**: React, Node.js, Tailwind CSS
+- **Tools**: Git, Docker, VSCode
+- **Databases**: MySQL
 
-### Da uma olhada nas minhas redes socias:
-[<img align="left" alt="Gabriel Dias | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/gabrieldias102/)
-[<img align="left" alt="Gabriel Dias | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/gabriel.dias102/)
+## 📱 Connect with Me
+Feel free to reach out to me at [contatogbd@gmail.com](mailto:contatogbd@gmail.com)!
+
+<a href="https://www.linkedin.com/in/gabrieldias102/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png?20110609134306" 
+      alt="LinkedIn" 
+      width="40" 
+      height="40" 
+    />
+</a>
