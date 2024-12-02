@@ -1,7 +1,7 @@
 # Hi there, I'm Gabriel Dias! 👋
 
 ## 🌟 About Me
-- 💻 Full Stack Developer
+- 💻 Front End Developer
 - 🚀 Passionate about creating scalable web applications
 - 🌐 Open to collaboration and building innovative solutions
 - 🎮 In my free time, I’m a dedicated hunt for 100% achievements in games
